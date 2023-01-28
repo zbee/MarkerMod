@@ -1,0 +1,9 @@
+{
+  "Author": "zbee",
+  "Name": "MarkerMod",
+  "Punchline": "Quickly modify markers",
+  "Description": "A solution to perform some basic marker modifications, such as squaring up the markers and swapping individual markers.",
+  "InternalName": "MarkerMod",
+  "ApplicableVersion": "any",
+  "Tags": ["markers"]
+}
